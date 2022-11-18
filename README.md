@@ -1,16 +1,12 @@
-# mydataapp
+# DataBase App
 
-A new Flutter project.
+草野球をDXする。
 
-## Getting Started
+## 目指す場所
 
-This project is a starting point for a Flutter application.
+「草野球でもデータ野球を行いたい。でも紙媒体に保存するのはめんどくさいし、砂埃舞うグラウンドでパソコンも扱えない。でも、iPadくらいなら、、、」
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+そんな思いから、簡単にかつ視覚的にデータを保存することができるアプリを開発中。
+球種や速度だけでなく、キャッチャーが構えた位置から実際に投げた位置まで。　
+打撃結果だけでなく、飛んだ場所まで。
+1日ごとにデータを保存。
